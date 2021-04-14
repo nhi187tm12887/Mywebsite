@@ -13,5 +13,7 @@ h2{
 }
 p.bg-color{
     margin-bottom: 0px;
+}
+p{
     padding: 10px;
 }
